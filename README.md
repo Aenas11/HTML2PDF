@@ -31,5 +31,5 @@ It yields a response as an instance of APIGatewayProxyResponse class, in this wa
 ```
 
 ## Notes:
-    - Please dont forget to change lambda details in "aws-lambda-tools-defaults.json": "region" and "function-role";
+ - Please dont forget to change lambda details in "aws-lambda-tools-defaults.json": "region" and "function-role";
 
